@@ -2,7 +2,6 @@ import json
 import sqlite3
 from pathlib import Path
 from typing import Dict, List, Optional
-
 import pandas as pd
 
 
